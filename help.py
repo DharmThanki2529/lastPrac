@@ -1,8 +1,5 @@
 a=("Hello World")
 print(a)
-b=("I am Thanki")
+b=("I am Dharm")
 print(b)
-aa=44
-bb=44
-cc=(a+b)
-print(cc)
+
